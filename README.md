@@ -13,4 +13,4 @@ This is a sample website built using HTML, CSS, and VS Studio's AI assistant.
 * Github Pages
 
 # Live Site
-https://rcooke13/aiwebsite.github.io/ 
+https://rcooke13.github.io/aiwebsite/
