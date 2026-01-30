@@ -1,4 +1,4 @@
-# Sample Website
+# AI Website
 
 This is a sample website built using HTML and CSS.
 
@@ -14,6 +14,3 @@ This is a sample website built using HTML and CSS.
 
 ## Live Site
 https://rcooke13/websiteworkshop.github.io/
-
-# AI Website Workshop
-Github page is for hosting
