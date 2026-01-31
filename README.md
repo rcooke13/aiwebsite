@@ -1,18 +1,19 @@
 # AI-assisted Website Development 
-This is a sample website built using HTML, CSS, and VS Studio's AI assistant.
+This is a sample website built using HTML, CSS, and assisted by VS Code's Copilot.
 
 # Purpose
-* Showcase my hobbies, projects, or side business
-* Practice basic web development
-* Deploy a live website using Github Pages
+* Showcase hobbies, projects or side businesses on a website
+* Practice basic web development with AI assistance and debugging
+* Deploy a live website to a cloud environment (Github Pages)
 
 # Technologies Used
 * HTML
 * CSS
-* VS Studio and its AI assistant
+* VS Code and its embedded Copilot AI assistant
 * Github Pages
 
 # Live Site
 https://rcooke13.github.io/aiwebsite/
+
 
 
